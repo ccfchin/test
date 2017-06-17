@@ -8,7 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="190" Margin="40,72,0,0" VerticalAlignment="Top" Width="234">
-            <Label x:Name="label" Content="Silencer!!!!!!!!!!!dfgdgfdgdfgdg&#xA;" Margin="-1,-1,1,1"/>
+            <Label x:Name="label" Content="Silencer!!!!!!!!!!!" Margin="69,1,-69,-1"/>
         </Border>
 
     </Grid>
